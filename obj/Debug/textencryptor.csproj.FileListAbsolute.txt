@@ -1,0 +1,15 @@
+C:\Users\gabri\source\repos\wiki\textencryptor\bin\Debug\textencryptor.exe.config
+C:\Users\gabri\source\repos\wiki\textencryptor\bin\Debug\textencryptor.exe
+C:\Users\gabri\source\repos\wiki\textencryptor\bin\Debug\textencryptor.pdb
+C:\Users\gabri\source\repos\wiki\textencryptor\obj\Debug\textencryptor.csprojAssemblyReference.cache
+C:\Users\gabri\source\repos\wiki\textencryptor\obj\Debug\MainWindow.g.cs
+C:\Users\gabri\source\repos\wiki\textencryptor\obj\Debug\App.g.cs
+C:\Users\gabri\source\repos\wiki\textencryptor\obj\Debug\textencryptor_MarkupCompile.cache
+C:\Users\gabri\source\repos\wiki\textencryptor\obj\Debug\textencryptor_MarkupCompile.lref
+C:\Users\gabri\source\repos\wiki\textencryptor\obj\Debug\MainWindow.baml
+C:\Users\gabri\source\repos\wiki\textencryptor\obj\Debug\textencryptor.g.resources
+C:\Users\gabri\source\repos\wiki\textencryptor\obj\Debug\textencryptor.Properties.Resources.resources
+C:\Users\gabri\source\repos\wiki\textencryptor\obj\Debug\textencryptor.csproj.GenerateResource.cache
+C:\Users\gabri\source\repos\wiki\textencryptor\obj\Debug\textencryptor.csproj.CoreCompileInputs.cache
+C:\Users\gabri\source\repos\wiki\textencryptor\obj\Debug\textencryptor.exe
+C:\Users\gabri\source\repos\wiki\textencryptor\obj\Debug\textencryptor.pdb
